@@ -14,6 +14,6 @@ public class SessionConfig {
     public SerializationDelegate springSessionDefaultRedisSerializer(
             GenericJackson2JsonRedisSerializer serializer) {
 
-        return new SerializationDelegate(null);
+        return null;
     }
 }
