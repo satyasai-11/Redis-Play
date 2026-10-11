@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceb23cb6-495c-4a6b-ac1a-979c8f9a6b51" name="Changes" comment="" />
+    <list default="true" id="ceb23cb6-495c-4a6b-ac1a-979c8f9a6b51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="84" />
+    <option name="cachedIndexableFilesCount" value="139" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "Spring Boot.RedisApplication.executor": "Run",
-    "git-widget-placeholder": "feature/test",
+    "git-widget-placeholder": "feature/login",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Downloads/Redis/Redis",
     "project.structure.last.edited": "Project",
